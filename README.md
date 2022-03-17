@@ -1,15 +1,23 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
+<br>
 🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
+<br>
 📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+<h2>Connect with me:</h2>
+<a  href="https://www.linkedin.com/in/matthew-caminiti/" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matthew Caminiti" height="30" width="40" />
+</a>
+
+<h2> Languages </h2>
+<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<h2> Tools and Frameworks </h2>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -49,6 +57,4 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
-
-![Matthew's Github Stats](https://github-readme-stats.vercel.app/api?username=matthewcaminiti&theme=swift&show_icons=false)
+      height="40" /> </a> </p> -->
