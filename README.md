@@ -10,11 +10,10 @@ ___
 
 📦 My latest release was a **cross-platform mobile application: [spenny](https://apps.apple.com/ca/app/spenny/id1599181818)** 
 
-🌱 I’m currently learning **Go** and **Rust**
+🌱 I’m currently learning **Go** and **socket\.io**
 
 📫 How to reach me: **matthew.z.caminiti@gmail.com** <a  href="https://www.linkedin.com/in/matthew-caminiti/"  target="blank"> <img  src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg"  alt="linkedin"  height="15"  width="15" /> </a>
 
-  
 
 <h2  align="center"> Languages </h2>
 
@@ -28,17 +27,17 @@ ___
 </p>
 <p align="center">
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/> -->
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="25"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"  alt="c++"  width="40"  height="40"/> -->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="25"/>
+<!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="25"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg"  alt="bash"  width="40"  height="40"/> -->
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="25"/>
+<!-- <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="25"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg"  alt="scala"  width="40"  height="40"> -->
-<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="scala" height="25"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="scala" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg"  alt="c#"  width="40"  height="40"> -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="25"/>
+<!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="25"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg"  alt="go"  width="40"  height="40"/> -->
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="25"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="27"/>
 </p>
 
 <h2  align="center"> Tools and Frameworks </h2>
@@ -51,11 +50,11 @@ ___
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg"  alt="redux"  width="40"  height="40"/> -->
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg"  alt="html5"  width="40"  height="40"/> -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="30"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg"  alt="css3"  width="40"  height="40"/> -->
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" height="30"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/jest/jest-plain.svg"  alt="jest"  width="40"  height="40"/> -->
 </p>
 
@@ -70,15 +69,15 @@ ___
 </p>
 <p align="center">
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg"  alt="nginx"  width="40"  height="40"/> -->
-<img  src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" height="30"/>
+<img  src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg"  alt="docker"  width="40"  height="40"/> -->
-<img  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="30"/>
+<img  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg"  alt="redis"  width="40"  height="40"/> -->
-<img  src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" height="30"/>
+<img  src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original.svg"  alt="kafka"  width="40"  height="40"/> -->
-<img  src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" height="30"/>
+<!-- <img  src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" height="27"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg"  alt="flask"  width="40"  height="40"/> -->
-<img  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="30"/>
+<!-- <img  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="27"/> -->
 </p>
 
 <h3  align="center">Databases & Cloud</h3>
@@ -88,9 +87,12 @@ ___
 <img  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"  height="35"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg"  alt="postgres"  width="40"  height="40"/> -->
 <img  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"  height="35"/>
+</p>
+<p align="center">
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/sqlalchemy/sqlalchemy-original.svg"  alt="sqlalchemy"  width="40"  height="40"/> -->
-<img  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="35"/>
+<img  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg"  alt="mysql"  width="40"  height="40"/> -->
-<img  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"  height="35"/>
+<img  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"  height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg"  alt="aws"  width="40" height="40"/> -->
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="27"/>
 </p>
