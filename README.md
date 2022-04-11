@@ -6,7 +6,7 @@
 
 ___
 
-🔭 I’m currently working on a **voice-controlled multiplayer chess website**
+🔭 I’m currently working on a **voice-controlled multiplayer chess website: [Voichess](https://voichess.art)**
 
 📦 My latest release was a **cross-platform mobile application: [spenny](https://apps.apple.com/ca/app/spenny/id1599181818)** 
 
