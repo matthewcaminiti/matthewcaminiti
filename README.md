@@ -6,11 +6,11 @@
 
 ___
 
-🔭 I’m currently working on a **voice-controlled multiplayer chess website**
+🔭 I’m currently working on a **multiplayer minesweeper game** and **iterating on one of my mobile apps**
 
-📦 My latest release was a **cross-platform mobile application: [spenny](https://apps.apple.com/ca/app/spenny/id1599181818)** 
+📦 My latest release was a **cross-platform mobile application: [staiir](https://apps.apple.com/us/app/staiir/id6443690853)** 
 
-🌱 I’m currently learning **Go** and **socket\.io**
+🌱 I’m currently learning **Go**, **Rust**, and **multiplayer networking**
 
 📫 How to reach me: **matthew.z.caminiti@gmail.com** <a  href="https://www.linkedin.com/in/matthew-caminiti/"  target="blank"> <img  src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg"  alt="linkedin"  height="15"  width="15" /> </a>
 
