@@ -17,27 +17,30 @@ ___
 
 <h2  align="center"> Languages </h2>
 
+<!-- FOR BADGES: https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- -->
+
 <p  align="center">
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  alt="js"  width="40"  height="40"/> -->
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="35"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" height="35"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/> -->
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=bue" alt="python" height="35"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg"  alt="java"  width="40"  height="40"/> -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="35"/>
 </p>
 <p align="center">
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/> -->
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust" height="27"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="27"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"  alt="c++"  width="40"  height="40"/> -->
 <!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="25"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg"  alt="bash"  width="40"  height="40"/> -->
 <!-- <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="25"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg"  alt="scala"  width="40"  height="40"> -->
-<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="scala" height="27"/>
+<!-- <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="scala" height="27"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg"  alt="c#"  width="40"  height="40"> -->
 <!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="25"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg"  alt="go"  width="40"  height="40"/> -->
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="27"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="27"/>
 </p>
 
 <h2  align="center"> Tools and Frameworks </h2>
@@ -46,7 +49,8 @@ ___
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="35"/>
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg"  alt="react"  width="40"  height="40"/> -->
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" height="35"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" height="35"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue js" height="35"/>
+<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" height="35"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg"  alt="redux"  width="40"  height="40"/> -->
 </p>
 <p align="center">
